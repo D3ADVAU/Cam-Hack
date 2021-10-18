@@ -5,8 +5,7 @@ import os
 import time
 import socket
 import random
-import requests, re , colorama
-colorama.init()
+import requests,re
 
 def psb(z):
     for e in z + '\n':
